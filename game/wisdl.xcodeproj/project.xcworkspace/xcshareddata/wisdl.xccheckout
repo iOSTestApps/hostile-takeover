@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61B12256-F9B9-4071-981D-B3631C59605F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>wisdl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B49A547448C07019662D8A86AD22AA928E8661CB</key>
+		<string>https://github.com/iOSTestApps/hostile-takeover.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>game/wisdl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B49A547448C07019662D8A86AD22AA928E8661CB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iOSTestApps/hostile-takeover.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B49A547448C07019662D8A86AD22AA928E8661CB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B49A547448C07019662D8A86AD22AA928E8661CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hostile-takeover</string>
+		</dict>
+	</array>
+</dict>
+</plist>

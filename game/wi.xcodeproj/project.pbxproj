@@ -979,7 +979,7 @@
 				LastUpgradeCheck = 0510;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = BTM58P9QZU;
+						DevelopmentTeam = 8G9SJKMB6B;
 					};
 				};
 			};
@@ -1195,7 +1195,7 @@
 				CLANG_LINK_OBJC_RUNTIME = NO;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Doe Pics Hit Inc";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = "";
@@ -1220,8 +1220,8 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = wi;
-				PROVISIONING_PROFILE = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
+				PROVISIONING_PROFILE = "49e2e430-df44-4b06-8364-a8214da7aef5";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49e2e430-df44-4b06-8364-a8214da7aef5";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = armv7;
 			};
@@ -1233,7 +1233,7 @@
 				CLANG_LINK_OBJC_RUNTIME = NO;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Doe Pics Hit Inc";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = "";
@@ -1254,8 +1254,8 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = wi;
-				PROVISIONING_PROFILE = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
+				PROVISIONING_PROFILE = "49e2e430-df44-4b06-8364-a8214da7aef5";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49e2e430-df44-4b06-8364-a8214da7aef5";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = armv7;
 			};
@@ -1326,7 +1326,7 @@
 				CLANG_LINK_OBJC_RUNTIME = NO;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Doe Pics Hit Inc";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = "";
@@ -1348,8 +1348,8 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = wi;
-				PROVISIONING_PROFILE = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
+				PROVISIONING_PROFILE = "49e2e430-df44-4b06-8364-a8214da7aef5";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49e2e430-df44-4b06-8364-a8214da7aef5";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = armv7;
 			};
@@ -1379,7 +1379,7 @@
 				CLANG_LINK_OBJC_RUNTIME = NO;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Doe Pics Hit Inc";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = "";
@@ -1400,7 +1400,7 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = wi;
-				PROVISIONING_PROFILE = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
+				PROVISIONING_PROFILE = "49e2e430-df44-4b06-8364-a8214da7aef5";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = armv7;
 			};
@@ -1430,7 +1430,7 @@
 				CLANG_LINK_OBJC_RUNTIME = NO;
 				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Doe Pics Hit Inc";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = "";
@@ -1448,8 +1448,8 @@
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = wi;
-				PROVISIONING_PROFILE = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E522801F-D4E0-499E-9568-7FF0F4B07D52";
+				PROVISIONING_PROFILE = "49e2e430-df44-4b06-8364-a8214da7aef5";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "49e2e430-df44-4b06-8364-a8214da7aef5";
 				SDKROOT = iphoneos;
 				VALID_ARCHS = armv7;
 			};

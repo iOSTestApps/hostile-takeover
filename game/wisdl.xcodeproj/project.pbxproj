@@ -157,7 +157,7 @@
 		55D1DC5A1393FAE50035F179 /* sdlsounddev.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 55D1DC591393FAE50035F179 /* sdlsounddev.cpp */; };
 		55D1DC6513940F830035F179 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 55D1DC6413940F830035F179 /* icon.png */; };
 		55D1DC67139414500035F179 /* wi.icns in Resources */ = {isa = PBXBuildFile; fileRef = 55D1DC66139414500035F179 /* wi.icns */; };
-		55D631D11390C105002061DF /* SDL.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 551C91EA1390BC570018ECBA /* SDL.framework */; };
+		55D631D11390C105002061DF /* SDL.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 551C91EA1390BC570018ECBA /* SDL.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		55D631DA13918313002061DF /* htdata832.pdb in Resources */ = {isa = PBXBuildFile; fileRef = 55C5AAA41390627C003B15C5 /* htdata832.pdb */; };
 		55D631DB13918313002061DF /* htsfx.pdb in Resources */ = {isa = PBXBuildFile; fileRef = 55C5AAA61390627C003B15C5 /* htsfx.pdb */; };
 		55D631DF13919455002061DF /* hosthelpers.mm in Sources */ = {isa = PBXBuildFile; fileRef = 55D631DE13919455002061DF /* hosthelpers.mm */; };
@@ -939,6 +939,9 @@
 /* Begin PBXProject section */
 		55C5AA4B13906055003B15C5 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
 			buildConfigurationList = 55C5AA4E13906055003B15C5 /* Build configuration list for PBXProject "wisdl" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -1163,7 +1166,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1178,7 +1181,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
 				GCC_REUSE_STRINGS = YES;
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
@@ -1205,7 +1208,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1217,7 +1220,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = sdl/mac/Prefix.pch;
 				GCC_REUSE_STRINGS = YES;
-				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
@@ -1242,6 +1245,7 @@
 		55C5AA5013906055003B15C5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
 			};
 			name = Debug;
 		};
